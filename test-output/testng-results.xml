@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-07T07:09:33 IST" name="Default suite" finished-at="2024-06-07T07:09:33 IST" duration-ms="146">
+  <suite started-at="2024-06-07T13:22:12 IST" name="Default suite" finished-at="2024-06-07T13:22:12 IST" duration-ms="103">
     <groups>
     </groups>
-    <test started-at="2024-06-07T07:09:33 IST" name="Default test" finished-at="2024-06-07T07:09:33 IST" duration-ms="146">
-      <class name="gitDemo2.GitTestwithBranch">
-        <test-method signature="f()[pri:0, instance:gitDemo2.GitTestwithBranch@4fb0f2b9]" started-at="2024-06-07T07:09:33 IST" name="f" finished-at="2024-06-07T07:09:33 IST" duration-ms="15" status="PASS">
+    <test started-at="2024-06-07T13:22:12 IST" name="Default test" finished-at="2024-06-07T13:22:12 IST" duration-ms="103">
+      <class name="testingGit.TestDemo1">
+        <test-method signature="test1()[pri:0, instance:testingGit.TestDemo1@4fb0f2b9]" started-at="2024-06-07T13:22:12 IST" name="test1" finished-at="2024-06-07T13:22:12 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- gitDemo2.GitTestwithBranch -->
+        </test-method> <!-- test1 -->
+      </class> <!-- testingGit.TestDemo1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
